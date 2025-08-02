@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Meera Sharma",
+    "specialization": "Cardiologist",
+    "image": "https://t3.ftcdn.net/jpg/05/04/25/70/360_F_504257032_jBtwqNdvdMN9Xm6aDT0hcvtxDXPZErrn.jpg",
+    "availability": "Available Today",
+    "schedule": {
+      "Monday": "10am - 2pm",
+      "Tuesday": "On Leave",
+      "Wednesday": "1pm - 5pm"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Dr. Aryan Singh",
+    "specialization": "Dermatologist",
+    "image": "https://images.rawpixel.com/image_social_square/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTA4L3Jhd3BpeGVsX29mZmljZV8yOV9waG90b19vZl9hZHVsdF9tYWxlX2luZGlhbl9kb2N0b3Jfc21pbGluZ19jb183ZTdhYzdmNC0xMjU0LTRkNjAtYmI2OS0zMTk3YTliZWRkZjJfMS5qcGc.jpg",
+    "availability": "Fully Booked",
+    "schedule": {
+      "Monday": "On Leave",
+      "Tuesday": "10am - 1pm",
+      "Friday": "11am - 3pm"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dr. Kavya Nair",
+    "specialization": "Pediatrician",
+    "image":"https://media.istockphoto.com/id/1293373291/photo/portrait-of-confident-ethnic-female-doctor.jpg?s=612x612&w=0&k=20&c=CJsw6IgTecJZoBeVXqZdvh2BI-NyVa-8VcQM3fPhbYc=",
+    "availability": "Available Tomorrow",
+    "schedule": {
+      "Wednesday": "9am - 12pm",
+      "Thursday": "1pm - 4pm",
+      "Saturday": "10am - 2pm"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dr. Rahul Desai",
+    "specialization": "Orthopedic",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.E2zynl2Gw9dEAvQ15-WcVwHaHa?r=0&w=1080&h=1080&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "availability": "Available Today",
+    "schedule": {
+      "Tuesday": "2pm - 6pm",
+      "Thursday": "10am - 1pm",
+      "Friday": "3pm - 7pm"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dr. Sneha Verma",
+    "specialization": "Gynecologist",
+    "image": "https://img.freepik.com/free-photo/beautiful-young-female-doctor-looking-camera-office_1301-7807.jpg",
+    "availability": "On Leave",
+    "schedule": {
+      "Monday": "9am - 11am",
+      "Wednesday": "11am - 3pm",
+      "Friday": "1pm - 5pm"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Dr. Arjun Reddy",
+    "specialization": "Neurologist",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.zkMTN_Ey44xxUuVPixtd5wHaJh?r=0&w=516&h=663&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "availability": "Available Today",
+    "schedule": {
+      "Tuesday": "10am - 12pm",
+      "Thursday": "1pm - 4pm"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dr. Nisha Kapoor",
+    "specialization": "Psychiatrist",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL4VgZk3KoSEz7nEAj3H3nAhT_FrnpfhJi2kb6uEHG1Dc8Lw-zYO2yiZYcXcns46og-tM&usqp=CAU",
+    "availability": "Available Tomorrow",
+    "schedule": {
+      "Monday": "1pm - 5pm",
+      "Friday": "10am - 2pm"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Dr. Ramesh Iyer",
+    "specialization": "ENT Specialist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.Gr_0M4J30kGx_pMXyy1edgHaHa?r=0&w=600&h=600&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "availability": "Fully Booked",
+    "schedule": {
+      "Tuesday": "11am - 3pm",
+      "Wednesday": "2pm - 6pm"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Dr. Priya Menon",
+    "specialization": "Dentist",
+    "image": "https://www.shutterstock.com/image-photo/medical-concept-indian-female-doctor-600nw-2313987613.jpg",
+    "availability": "Available Today",
+    "schedule": {
+      "Monday": "9am - 1pm",
+      "Thursday": "3pm - 6pm"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Dr. Vikram Chauhan",
+    "specialization": "Oncologist",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.Q8vjY5Kc2lJ6gCA8XuiIRgHaHa?r=0&w=800&h=800&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "availability": "On Leave",
+    "schedule": {
+      "Tuesday": "1pm - 5pm",
+      "Saturday": "10am - 2pm"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Dr. Anjali Joshi",
+    "specialization": "Endocrinologist",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNtLM5I8UdP82KNEis3AQiVfIbgjM7YKYpo0mOJlWBaSAt2CuCr-79bQvaLl3_Etd7VH8&usqp=CAU",
+    "availability": "Available Today",
+    "schedule": {
+      "Monday": "2pm - 6pm",
+      "Thursday": "10am - 1pm"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Dr. Harsh Mehta",
+    "specialization": "Pulmonologist",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.f_aq3_ktKzL_mFKZW6t9BgHaLG?r=0&w=683&h=1024&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "availability": "Fully Booked",
+    "schedule": {
+      "Wednesday": "3pm - 7pm",
+      "Friday": "9am - 1pm"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Dr. Pooja Patel",
+    "specialization": "Radiologist",
+    "image": "https://www.shutterstock.com/image-photo/closeup-lady-doctor-folding-arms-260nw-2453086223.jpg",
+    "availability": "Available Tomorrow",
+    "schedule": {
+      "Monday": "10am - 12pm",
+      "Thursday": "1pm - 4pm"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Dr. Rohit Sinha",
+    "specialization": "General Physician",
+    "image": "https://tse2.mm.bing.net/th/id/OIP.IVPB4toNb8KsE8z-8NUD_AHaIF?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "availability": "Available Today",
+    "schedule": {
+      "Tuesday": "11am - 3pm",
+      "Friday": "2pm - 6pm"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Dr. Swati Rao",
+    "specialization": "Nutritionist",
+    "image": "https://thumbs.dreamstime.com/b/indian-beautiful-female-doctor-18398918.jpg",
+    "availability": "Available Today",
+    "schedule": {
+      "Monday": "10am - 1pm",
+      "Thursday": "3pm - 5pm"
+    }
+  }
+]
